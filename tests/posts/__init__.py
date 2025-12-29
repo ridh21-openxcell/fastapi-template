@@ -1,0 +1,2 @@
+"""Posts tests."""
+
